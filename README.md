@@ -41,13 +41,13 @@ Poređenje mog redizajna korica sa originalnim izdanjima:
 Dizajn povezanih rikni (spine art) i unutrašnjih stranica sa sadržajem za *Steel Ball Run*:
 
 ### Dizajn rikni (Omnibus komplet)
-<img src="book-design/jba-sbr-spine-omnibus.jpg" width="650">
+<img src="book-design/jba-sbr-spine-omnibus.jpg" width="660">
 
 ### Stranice sa sadržajem (Contents)
 
 | Standardno izdanje | Omnibus izdanje |
 | :---: | :---: |
-| <img src="book-design/jba-sbr-content.jpg" width="300"> | <img src="book-design/jba-sbr-content-omnibus.jpg" width="300"> |
+| <img src="book-design/jba-sbr-content.jpg" width="320"> | <img src="book-design/jba-sbr-content-omnibus.jpg" width="320"> |
 
 ---
 
@@ -56,7 +56,7 @@ Dizajn povezanih rikni (spine art) i unutrašnjih stranica sa sadržajem za *Ste
 Kompletan vizuelni identitet i interfejs za veb aplikaciju namenjenu ljubiteljima mangi:
 
 ### UI/UX Dizajn Web Aplikacije
-<img src="branding-ui/manga-print-web.jpg" width="650">
+<img src="branding-ui/manga-print-web.jpg" width="660">
 
 ### Dizajn Vizit Kartice
 <img src="branding-ui/manga-print-vizit-kartica.jpg" width="450">
